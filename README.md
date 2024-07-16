@@ -4,7 +4,7 @@ An 11ty starter site for the IndieWeb
 
 To begin using, just click the button below
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rockorager/11ndieWeb)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/vernacular-software/site)
 
 ## Out of the box
 
